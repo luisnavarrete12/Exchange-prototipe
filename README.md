@@ -7,5 +7,6 @@ Login autentication
 apis
 js
 webpack
-graph ql
+graph
+and more
 
